@@ -1,0 +1,63 @@
+from typing import List
+
+def total(numbers: List[float]) -> float:
+    """
+    Args:
+        numbers: a list a numbers.
+    
+    Returns:
+        their total sum of the numbers in the list
+    """
+    pass
+  
+
+def ceil(num: float) -> int:
+    """
+    Args:
+        num: a decimal number.
+    Returns:
+        the number roundded up to an integer  
+    """
+    pass
+
+
+def floor(num: float) -> int:
+    """
+    Args:
+        num: a decimal number
+    Returns:
+        the number rounded down to an integer
+    """
+    pass
+
+
+def create_message(name: str) -> str:
+    """
+    Args:
+        name: a person's name
+    Returns:
+        a message that is dedicated to that person with their name.
+    """
+    pass
+
+
+def avg(a: float, b: float) -> float:
+    """
+    Args:
+        a: a decimal number
+        b: another decimal number
+    Returns:
+        the average of the two numbers as a float.
+    """
+    pass
+
+def can_vote(age: int) -> bool:
+    """
+    Args:
+        age: the age of some person.
+    Returns:
+        True: the person is old enough to vote
+        False: the person is not old enough to vote
+
+    """
+    pass
